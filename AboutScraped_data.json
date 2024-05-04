@@ -1,0 +1,42 @@
+{
+    "About": {
+        "AboutNetwork": {
+            "HeaderText": "About",
+            "HeaderImage": "https://franchisesuppliernetwork.com/wp-content/themes/franchise-supplier-network/img/banner-inner-01.jpg",
+            "Header": "About Franchise Supplier Network:",
+            "Paragraph": "Our services are forever free for franchisors because of our membership based model which gives proven franchise suppliers a dedicated platform to promote their services and contribute content and education within our community and media channels."
+        },
+        "TeamList": [
+            {
+                "image_url": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Ryan-Hicks.jpg",
+                "member_name": "Ryan Hicks",
+                "member_designation": "Managing Partner",
+                "teamhistory": "Ryan has served the franchise community as an accomplished supplier and trusted technology advisor for the past decade. His knowledge in franchising combined with skills in strategy, business development, marketing technology, operational technology, and uncanny ability to network and build relationships has helped organizations achieve explosive growth.Upon graduating college, Ryan became a founding member of iConnect POS (now FranPOS) and grew the customer base to over 10,000 locations worldwide. In 2018, Ryan joined Rallio as an equity partner and business development officer. The social media technology company has experienced massive growth with his leadership, landing on the Inc. 5000 list and being named a top franchise marketing supplier by Entrepreneur Magazine 5 years in a row.Ryan is the Founder and Executive Producer of Modrn Business Podcast, which boasts one of the largest franchise community audiences in the world\u2014 publishing over 400 episodes since July of 2017. Ryan is also the Co-Founder of Franchise YoungConference, the only conference servicing Millennial/Gen-Z franchise executives.Amidst the COVID 19 pandemic, Ryan invested in Safe From Spread, which grew to over 30 franchise territories in 9 states before its merger with CPR Construction Cleaning USA in early 2022.Today, Ryan is a Certified Franchise Executive, a member of IFA\u2019s FranPAC Task Force, and is on a mission as Partner and Managing Director of Franchise Supplier Network to be the matchmaker between franchisors and best-fit suppliers. Ryan helps franchisors of all sizes to assess their needs for financial, HR, marketing and operational technologies and services."
+            },
+            {
+                "image_url": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Zack-Headshot-2-2.png",
+                "member_name": "Zack Fishman",
+                "member_designation": "Partner & Chief Operating Officer",
+                "teamhistory": "Zack Fishman has been involved in the franchise space since he could walk (literally), devoting his life to understanding all facets of the industry. Currently, Zack is the Chief Growth Officer for Fishman PR, the world\u2019s foremost PR firm specializing in franchising and Franchise Elevator, the world\u2019s preeminent emerging brands PR firm.In his spare time, Zack is also the Co-Founder of Franchise YoungConference, the only conference for Millennial/Gen-Z franchise executives, Co-Producer of Modrn Business Podcast, an award-winning podcast focusing on showcasing franchising\u2019s most exciting entrepreneurs and is Partner & COO of Franchise Supplier Network, where he specializes in matching franchisors with best-fit suppliers/partners in the franchise development, third-party investment and real estate disciplines within franchising."
+            },
+            {
+                "image_url": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Brad-Fishman.jpg",
+                "member_name": "Brad Fishman",
+                "member_designation": "Partner & Chief Financial Officer",
+                "teamhistory": "Brad Fishman is CEO of Fishman Public Relations, the premiere national agency specializing in PR and content marketing services for franchise brands. He also founded Franchise Elevator, a fast-growing specialty PR agency serving emerging franchise brands. On a global level, Brad also operates Fishman Canada, a PR firm providing lead generation and consumer PR for franchise brands in Canada, as well as co-founding Rev PR, a leading franchise PR firm in the United Kingdom. Brad has spent nearly 30 years helping hundreds of franchisors raise awareness of their brand among consumers and expand their franchise systems through lead generation PR and content marketing.Outside of his day-to-day responsibilities, Brad also sits on the board of directors of many franchise organizations and franchise suppliers such as Franchise Payments Network, FranFund, myfrii, Tootl and previously served on the Board of Directors of FranChoice and RainTree. Brad is the past chairman of the International Franchise Association\u2019s Supplier Forum, a past member of the IFA\u2019s board and executive board and serves on the IFA\u2019s Membership Committee. Brad is also the Co-Founder of Franchisors.com, the company that operates franchise conferences like Franchise Springboard, Franchise UnConference and Franchise YoungConference.In his role at Franchise Supplier Network, Brad uses his shrewd financial background to help guide the FSN towards financial responsibility and through coaching franchisors on what to expect when preparing for third-party investment."
+            },
+            {
+                "image_url": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Lane-Fisher.jpg",
+                "member_name": "Lane Fisher",
+                "member_designation": "Partner & Chief Legal Officer",
+                "teamhistory": "In private practice since 1989, Lane Fisher currently represents more than 200 franchised brands in business transactions and complex franchise litigation. Fisher has been identified both as a Legal Eagle by Franchise Times for every consecutive year since 2004 and has had his firm, FisherZucker, awarded as a top franchise law firm servicing the Entrepreneur Franchise 500 from since the award\u2019s inception in 2018.Lane\u2019s tireless devotion to protecting the franchise business model has led to serving as Chairman of the International Franchise Association\u2019s Supplier Forum, Member of IFA\u2019s Board, IFA\u2019s Executive Board, FranPAC Task Force and on the IFA\u2019s Membership Committee. Due to his expertise on the evolving franchising landscape, Lane is a frequent speaker at franchise conferences and has authored several articles spanning several aspects of the industry. To give back to the franchising community, Lane is also the Co-Founder of Franchisors.com, the company that operates franchise conferences like Franchise Springboard, Franchise UnConference and Franchise YoungConference.As Chief Legal Officer of Franchise Supplier Network, Lane oversees all legal matters on behalf of the FSN team and consults both FSN members and franchisors on navigating the franchise legal landscape effectively."
+            },
+            {
+                "image_url": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/08/1689182261868.jpeg",
+                "member_name": "Jake Fishman",
+                "member_designation": "Vice President of Business Development",
+                "teamhistory": "As someone who grew up in the digital age, Jake was keenly aware the future of franchising is technology. Before his time at Franchise Supplier Network, he spent 2.5 years working closely with franchise brands overseeing business development for Eulerity, a workflow automation technology company that helps franchise brands scale marketing efforts. With the combination of his franchise business acumen and experience in technology, Jake brings his unique perspective to franchisors on how to flourish in the franchise industry\u2019s rapidly-evolving marketing world.In his role at Franchise Supplier Network, Jake is the go-to resource for all marketing technology needs; helping emerging franchisors build out their marketing technology stack from scratch or mid-market/enterprise-level franchisors rebuild aspects of their marketing technology relationships."
+            }
+        ]
+    }
+}

@@ -1,0 +1,1207 @@
+{
+    "Resources": {
+        "Header": {
+            "HeaderText": "Resources",
+            "HeaderImage": "https://franchisesuppliernetwork.com/wp-content/themes/franchise-supplier-network/img/banner-inner-01.jpg"
+        },
+        "Category": [
+            {
+                "Category": "Post",
+                "Title": "Woven: Boosting LMS Usage & Franchisor ROI",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-10-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/woven-lms-usage-franchisor-roi/",
+                "paragraph": "Unlike a traditional Learning Management System (LMS) that exists as a standalone platform, Woven\u2019s integrated Learning & Development tools are revolutionizing how franchises train, engage, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "ServiceMinder + Mosquito Squad: A Buzzing Business Triples",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-mosquito-squad-a-buzzing-business-triples/",
+                "paragraph": "Mosquito Squad is proud to be America\u2019s most trusted mosquito and tick company dedicated exclusively to controlling the annoying outdoor pests that ruin your backyard [\u2026]"
+            },
+            {
+                "Category": "Webinar",
+                "Title": "Expanding through Strategic Real Estate Development with Steve Venezia, Planet Fitness Franchisee",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/expanding-through-strategic-real-estate-development/",
+                "paragraph": "Leasecake is lease and location management made easy for the franchise industry, providing a pain-killing application that helps proactively oversee one of the largest risks [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Quick Data Without Breaking the Bank: Why a K9 Resorts Franchisee Uses Smappen for Expansion",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-16-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/k9-resorts-smappen/",
+                "paragraph": "K9 Resorts is an award-winning luxury dog boarding and daycare franchise founded in 2005 with over 30 locations throughout the United States, including New York, [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 036: How to Scale Your Franchise with Lizzy Young of DevHub",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-036/",
+                "paragraph": "DevHub is a CMS truly built for franchises \u2013 where you can scale and integrate freely with the support you need, when you need it. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Morrow Hill Partners with the Franchise Ascension Initiative",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/morrow-hill-franchise-ascension-initiative/",
+                "paragraph": "Morrow Hill Announces Support for New Initiative to Catalyze Franchise Ownership Among Underrepresented Groups New accelerator program from the International Franchise Association seeks to increase [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Maximize Your Advertising Dollars with Programmatic Ads",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/awarity-programmatic-ads/",
+                "paragraph": "Awarity is an AI-powered advertising platform that helps brands reach their ideal customers more efficiently than other forms of awareness advertising, driving industry-leading ROI through [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Leasecake\u2019s Guide to Understanding Tenant CAM Charges",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-17-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/understanding-cam-charges/",
+                "paragraph": "If you\u2019re a commercial lease tenant, you\u2019ve probably come across the term \u201cCAM charges\u201d in your lease agreement. CAM, which stands for Common Area Maintenance, [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 035: Driving Franchisee Reviews & Revenue with Oscar Wimshurst of NiceJob",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-035/",
+                "paragraph": "NiceJob is a Reputation Marketing platform helping franchisees get 4x the reviews and 2x the sales. It is the all-in-one reputation marketing software for busy [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "ServiceMinder\u2019s 2024 Conference Schedule",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-2024-conference-schedule/",
+                "paragraph": "If you\u2019re part of the franchise scene, whether you\u2019re a member, supplier, or franchisor, you understand just how game-changing networking events can be. These events [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Boulevard of Broker Dreams: Senate Bill 919 Explained",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/04/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/senate-bill-919/",
+                "paragraph": "Premier franchise law firm Fisher Zucker is always keeping up to date with ever-changing franchise laws & regulations: California\u2019s proposed Senate Bill No. 919 (\u201cBill [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Simple, Robust Software that Works Every Time: Why 1 Tom Plumber Uses Smappen",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-14-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/1-tom-plumber-smappen/",
+                "paragraph": "1 Tom Plumber\u00a0is an emergency service plumbing franchise, meaning that they\u2019re usually called to fix plumbing problems rather than installing new plumbing systems or retrofitting [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "The Power of Relationships in Franchising",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-11-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/relationships-in-franchising/",
+                "paragraph": "With a 2024 calendar packed with industry & brand conferences, Woven is making its mark in the franchising industry, demonstrating a deep commitment to the [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "The Good Feet Store Selects Clayton Kendall as New Marketing Supply Chain Partner",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-13-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/the-good-feet-store-clayton-kendall/",
+                "paragraph": "March 27, 2024 (Pittsburgh, PA) \u2013 Clayton Kendall, a leader in centralizing the marketing supply chains for franchise communities and multi-location businesses, announced that it [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Mastering Franchise Lease Negotiations\u00a0with Leasecake",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-12-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-lease-negotiations/",
+                "paragraph": "As a franchise owner, one of the most critical aspects of your business success is securing a favorable lease agreement for your franchise location. Whether [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Why Franchisors Love Working with Purple Penguin Digital",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-31-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/purple-penguin-digital-client-testimonials/",
+                "paragraph": "Purple Penguin Digital is a proven franchise marketing partner since 2009, delivering tangible results to its clients, with no contracts or hidden fees. They bring [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Is Private Equity for You?",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-10-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/private-equity-franchise/",
+                "paragraph": "In today\u2019s challenging lending environment, private equity can be a solution for franchises, especially in larger, established tier-one brands. C Squared Advisory Group, LLC is [\u2026]"
+            },
+            {
+                "Category": "Webinar",
+                "Title": "DEVHUB WEBINAR: How to Maximize Your Marketing Technology to Drive Franchisee Growth",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-9-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/marketing-technology-franchisee-growth/",
+                "paragraph": "So you\u2019ve invested in MarTech for your growing franchise\u2026 how are you making the most of it? And more importantly, how are your franchisees making [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Get Ahead of the Home Services Busy Season",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-8-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/home-services-busy-season/",
+                "paragraph": "As the temps warm up and the days get longer, we all know what\u2019s around the corner for Home Services franchises: busy season. The demands [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Pocketsuite\u2019s 2024 Business Outlook for Personal Services Franchises",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/personal-services-franchise-outlook/",
+                "paragraph": "PocketSuite recently published their 2024 Business Outlook for Personal Services Franchises, full of valuable insights for your 2024 franchise planning. What is PocketSuite? As a [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Johnny Franchise\u2019s Simple Way to Avoid Failure as a Franchisor",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/avoid-franchise-failure/",
+                "paragraph": "Are you doing everything you can to avoid failure in building your franchise system? The work of an emerging and growing franchisor isn\u2019t easy. After [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Easy to Use & Robust Data: Why Insulation Commandos Uses Smappen for Franchise Territory Mapping",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/insulation-commandos-smappen/",
+                "paragraph": "Founded in 2021, Insulation Commandos is a home services company specializing in insulation. They perform HVAC system assessments and optimization, insulation retrofits, air sealing, and [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Increase Franchise Brand Awareness with Woven\u2019s Employee Recognition Tools",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-employee-recognition/",
+                "paragraph": "Only 26% of frontline workers feel valued and recognized by their organization. Let\u2019s change that. In the competitive world of franchising, prioritizing employee satisfaction and [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "ServiceMinder Announces Exciting 2024 Partnerships",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-partnerships-2024/",
+                "paragraph": "Serviceminder, the premier platform for managing & operating your home services brand, is proud to announce these exciting new partnerships in 2024: Emerging service brand, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Clayton Kendall Adds Richard Cashdollar as CFO",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/clayton-kendall-adds-cfo/",
+                "paragraph": "Marketing Supply Chain Firm Names Richard Cashdollar March 4, 2024 (Pittsburgh, PA) \u2013 Clayton Kendall, a leader in centralizing the marketing supply chain for franchise [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Revolutionizing Franchise Expansion with TruTerritory by Vision Map",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/03/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/truterritory-morrow-hill/",
+                "paragraph": "In a groundbreaking collaboration with GeoStrategies, Vision Map proudly introduces TruTerritory, a state-of-the-art tool exclusively brought to you by Morrow Hill. TruTerritory is set to [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Managing 105+ Locations, Made Simpler with Leasecake",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-16-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/leasecake-oney-brands-case-study/",
+                "paragraph": "Orlando-based Team Oney Brands operates more than 105 retail outlets throughout Central Florida in businesses that include Papa John\u2019s, Qdoba Mexican Eats, and Topper\u2019s Creamery [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Fuel Your Franchise Success: Elevate Your Brand with an Optimized Google Business Profile",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-29-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-google-business/",
+                "paragraph": "Purple Penguin Digital is a proven franchise marketing partner since 2009, delivering tangible results to its clients, with no contracts or hidden fees. In today\u2019s [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Wendy\u2019s Multi-Unit Franchisee Finds Success with C Squared Advisors",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-28-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/wendys-csquared-advisors/",
+                "paragraph": "C Squared Advisors is an independent investment bank that provides financial and transaction advisory services to multi-unit owners in the restaurant and franchise industries. They [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Why Your Franchise Needs an Independent Website: Navigating SEO & Digital Marketing in 2024 with DevHub",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-1-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-seo-2024/",
+                "paragraph": "In the ever-evolving digital landscape of 2024, the importance of a franchise\u2019s website cannot be overstated. As the cornerstone of your Digital Activation Strategy (DAS) [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Enhance Franchise Offering with Evocalize Local Digital Marketing",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-15-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/local-franchise-digital-marketing/",
+                "paragraph": "The franchise model remains a beacon of entrepreneurial spirit, merging the safety of a proven business model with the excitement of individual ownership. Yet, as [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Starting Your Business with PocketSuite",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-16-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/pocketsuite-review/",
+                "paragraph": "With over 7,000 service-based businesses running on PocketSuite, the Franchise Edition combines an all-in one scheduling, sales and operations tool with roll-up data analytics to [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Our 3-Step Process for Franchisor Success",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-14-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-success/",
+                "paragraph": "Embarking on the franchisor journey can often feel like navigating through a complex maze, with success hinging on making the right connections and decisions. At [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How Does TV Advertising Work? Awarity\u2019s Guide to Traditional & Connected TV",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-15-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/awarity-tv-advertising/",
+                "paragraph": "Awarity is an AI-powered advertising platform that helps brands reach their ideal customers more efficiently than other forms of awareness advertising, driving industry-leading ROI. As [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How ACG Saves Tropical Smoothie $136K Annually",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-12-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/acg-tropical-smoothie/",
+                "paragraph": "ACG provides franchise owners enhanced recruitment, retention, and revenue through supplemental health benefits, empowering their work force and growing their franchise system. ACG\u2019s Encompassing Health [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Woven Promises These 6 Things to Their Customers",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-11-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/woven-promises/",
+                "paragraph": "What creates a raving fan? And what does a true partnership look like these days?\u00a0 These are a couple questions that we\u2019ve been asking ourselves [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "ServiceMinder\u2019s Spectacular Year: Breaking Records and Building Relationships",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-10-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-growth/",
+                "paragraph": "ServiceMinder\u2019s Spectacular Year: Breaking Records and Building Relationships A record-breaking year for the award-winning platform, ServiceMinder. How the platform for managing and operating service brands [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Here\u2019s Why Clayton Kendall Is Poised For Massive Growth",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-9-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/clayton-kendall-growth/",
+                "paragraph": "Feb 13, 2024 (Monroeville, PA) \u2013 Clayton Kendall, the leader in providing integrated marketing supply chain solutions for franchise communities and multi-location businesses, is thrilled [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 034: Using Artificial Intelligence to Amplify Franchisee Support with EZee Assist",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-034/",
+                "paragraph": "EZee Assist is a platform that amplifies support and strengthens franchise relationships, by using AI to provide around-the-clock support to franchise owners and staff on [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Clayton Kendall Hires VP of Sales",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-8-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/clayton-kendall-hires-vp-of-sales/",
+                "paragraph": "Marketing Supply Chain Firms Names Dan Geyer to Lead Sales Feb 6, 2024 (Pittsburgh, PA) \u2013 Clayton Kendall, a leader in centralizing the marketing supply [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Woven Launches Brand Communications Tool for Consistency & Compliance",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/woven-brand-communications/",
+                "paragraph": "Effective communication is vital in any business, but it\u2019s especially crucial in the world of franchising. Ensuring that information flows seamlessly between franchisors, franchisees, and [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "NiceJob\u2019s 2024 Franchise Wins",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-14-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/nicejob-franchise-wins/",
+                "paragraph": "NiceJob \u2013 the leading reputation marketing platform for franchises \u2013 is pleased to announce some recent deals: ONESource Moving Solutions \u2013 moving specialists for seniors, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Why Popeyes Loves Working with C Squared Advisors",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-27-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/popeyes-csquared-client-testimonial/",
+                "paragraph": "C Squared Advisors is an independent investment bank that provides financial and transaction advisory services to multi-unit owners in the restaurant and franchise industries. As [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Build Your Super Bowl-Worthy Supplier Team",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-1-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-team/",
+                "paragraph": "Caught up in the excitement of this upcoming Super Bowl weekend, where every play feels like it could make history, we\u2019re struck by the parallels [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 033: Centralizing Your Marketing Supply Chain with Dan Broudy, CEO of Clayton Kendall",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-033/",
+                "paragraph": "Clayton Kendall\u2019s marketing supply chain program helps franchise communities and multi-location businesses scale rapidly, save money, and better manage their promotional products, signage, apparel, POP [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Automate Your Customer Loyalty: How to Leverage AI for Your Business",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-13-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/automated-customer-loyalty/",
+                "paragraph": "While businesses may feel that using AI to interact with real-live customers may disconnect them from a loyal customer base: the opposite is in fact [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 032: How to Plan Your Franchise Development with Romain Dudek of Smappen",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-032/",
+                "paragraph": "With Smappen, make smart decisions using data-driven reports to design territories and analyze your market. This all-in-one online platform helps you choose the best location [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Why Clients Are Giving PocketSuite 5 Stars",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/pocketsuite-reviews/",
+                "paragraph": "With over 7,000 service-based businesses running on PocketSuite, the Franchise Edition combines an all-in one scheduling, sales and operations tool with roll-up data analytics to [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How to Use Organic & Paid Social Media to Hire Efficiently",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-12-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/social-media-for-hiring/",
+                "paragraph": "In today\u2019s crazy job market, snagging top talent is key for the growth and success of any multi-location business \u2013 think franchises, gyms, restaurants, or [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Leasecake + Restaurant365 Integration: No Fuss Finance",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-11-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/leasecake-restaurant365-integration/",
+                "paragraph": "Leasecake, a lease and location management software for the franchise industry, is excited to share news about its integration with Restaurant365. This integration focuses on [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Franchising & Technology: What the Future Holds",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-26-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchising-and-technology/",
+                "paragraph": "Mark Michael, CEO & Co-Founder of DevHub, recently sat down with Street Fight to speak about how franchises can build better franchisor-to-franchisee-to-consumer experiences, from local [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Download Your Free Franchise Territory Design eBook",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-10-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-territory-design/",
+                "paragraph": "Smappen is the quickest and easiest territory mapping software that you\u2019ve ever had. With Smappen, make smart decisions using data-driven reports to design territories and [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Reimagine Your Advertising with Awarity: Maximum Impact for Franchise Brands",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-9-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/awarity-franchise-advertising/",
+                "paragraph": "Awarity is an A.I.-powered advertising solution for franchise brands that drives industry-leading ROI with Connected TV and Banner ads. With localized micro-campaigns, franchise and multi-location [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Your Top 3 Snapchat Questions Answered by Purple Penguin Digital",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-25-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/snapchat-for-franchises/",
+                "paragraph": "Purple Penguin Digital is a proven franchise marketing partner since 2009, delivering tangible results to its clients, with no contracts or hidden fees. Just results! [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "The Simple Franchise Profitability Playbook for 2024",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-8-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-profitability-playbook-2024/",
+                "paragraph": "Epic Managers helps franchisees hire high-performing unit-level managers After years of costly distractions in our own franchise organization, they learned there are 2 things that [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Embracing the New Norms of Franchisor-Franchisee Relations",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchisor-franchisee-relations/",
+                "paragraph": "C Squared Advisors is a boutique investment bank that has completed hundreds of transactions in the multi-unit franchise and restaurant space. C Squared Advisory Group [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 031: Using Automation with Awarity\u2019s Cutting Edge Franchise Advertising Solutions",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-031/",
+                "paragraph": "Awarity is an AI-powered advertising platform that helps brands reach their ideal customers more efficiently than other forms of awareness advertising, driving industry-leading ROI. In [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Generate Reviews & Grow Your Business with NiceJob",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-reputation-marketing-nicejob/",
+                "paragraph": "Turn Your Customers into Vocal Fans to Grow Your Business A strong reputation is crucial for a winning franchise system. Whether it\u2019s helping your franchisees [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Building a Strategic Partnership: Cabinet IQ x ServiceMinder",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-1-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/building-a-strategic-partnership-cabinet-iq-x-serviceminder/",
+                "paragraph": "Upon its founding in 2013, ServiceMinder had one mission in mind: to help home service (and commercial service) franchise businesses acquire and convert more leads, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Woven Helps Planet Fitness Strengthen Member Experience",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/woven-planet-fitness-case-study/",
+                "paragraph": "Woven is the premier multi-unit business management platform for franchisee and independent owners, enabling them to manage people, operations and locations from one seamless platform. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How Suppliers are Helping Franchise Brands in 2024",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-suppliers-2024/",
+                "paragraph": "In the ever-evolving world of franchising, success is not a solitary pursuit but a collaborative one. As we begin 2024 here at Franchise Supplier Network [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Pet Care Franchise Suppliers for Train Your Dog Month",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/pet-care-franchise-suppliers/",
+                "paragraph": "Happy Train Your Dog Month, fellow pet enthusiasts! As we celebrate enhancing our furry friends\u2019 skills and behavior, let\u2019s shine a spotlight on the unsung [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Mobile Detailer YouTuber IMJOSHV Reviews PocketSuite",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-8-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/pocketsuite-imjoshv/",
+                "paragraph": "With over 7,000 service-based businesses running on PocketSuite, the tool combines an all-in one scheduling, sales and operations tool with roll-up data analytics to power [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Mastering Multi-Unit Franchise Success: Insights from a Seasoned Capriotti\u2019s Operator",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/mastering-multi-unit-franchise-success/",
+                "paragraph": "Leasecake is lease and location management made easy for the franchise industry, providing a pain-killing application that helps proactively oversee one of the largest risks [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Top 5 Reasons Franchises Partner with Image Cube",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-22-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/image-cube-franchises/",
+                "paragraph": "At Image Cube, we understand that running a franchise brand requires a lot of work. We are proud to be recognized as the franchise brand [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Your 2024 Guide to Digital Franchise Marketing",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/digital-franchise-marketing/",
+                "paragraph": "DevHub is a CMS truly built for franchises \u2013 where you can scale and integrate freely with the support your need, when you need it. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FSN Supplier Discovery Day: Employee Recruitment",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Employee-Recruitment-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-employee-recruitment/",
+                "paragraph": "In our ongoing Supplier Discovery Day series, we tap experts in our network to discuss buzzy topics in the industry. This time, we\u2019re focusing on [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 030: Find & Hire Great Managers with Epic Managers",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-030/",
+                "paragraph": "Epic Managers helps franchisees hire high-performing unit-level managers. Their team has over 20 years of experience as multi-unit, multi-brand franchisees, and their hiring system delivered [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 029: Leveraging Programmatic Recruitment & Conversational AI in Everyday Recruiting",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-029/",
+                "paragraph": "PandoLogic is a global market leader in programmatic recruitment and generative conversational A.I. solutions that effectively source, qualify and engage job candidates through intelligent automation. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Unlocking the Power of Facebook Marketing: A Guide for Franchise Success",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-21-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-facebook-marketing/",
+                "paragraph": "Purple Penguin Digital bring 14+ years of proven success as a franchise-focused digital marketing partner with hundreds of satisfied clients. They prove themselves to clients [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "C Squared Advisors 2023 Wins",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-19-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/c-squared-advisors-wins/",
+                "paragraph": "C Squared Advisors is an independent investment bank that provides financial and transaction advisory services to multi-unit owners in the restaurant and franchise industries. As [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Epic Managers Supports Pure Glow Go To Market",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-18-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/epic-managers-pure-glow/",
+                "paragraph": "Epic Managers is proud to support Pure Glow Sunless Tanning as they prepare to franchise. By placing strong managers in early locations, future franchisees will [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 028: Real Estate & Technology with Morrow Hill",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-028/",
+                "paragraph": "Morrow Hill is the premier firm for the largest global organizations to both exclusively represent tenant lease negotiations and offer our clients a single point [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Consistency is Key: Empower Franchisees Through Automation and Innovation",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/12/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-franchisee-automation/",
+                "paragraph": "Serviceminder takes the stress off franchisors by empowering franchisees! This solution steps in to make life easier for franchisors, giving franchisees the boost they need. [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 027: Cyber Security and How to Make Franchisees Profitable",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/51-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-027/",
+                "paragraph": "Hughes is a global managed service provider with 50 years of experience in connectivity and communication that helps their clients thrive in whatever the future [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 026: Labor Shortages in QSR",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-17-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-026/",
+                "paragraph": "Dynaxe Workforce utilizes their business immigration expertise to support companies nationwide battling labor shortages and high turnover. In this Franchise Supplier Wire Series episode of [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Why Your Franchise Brand Needs A Franchise Marketing Operating System",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-1-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-marketing-operating-system/",
+                "paragraph": "When an entrepreneur chooses to buy a franchise instead of simply starting their own business concept from scratch, they choose the franchise route for a [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How To Target Home Service Leads With Ease",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-15-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/home-service-leads/",
+                "paragraph": "Upon its founding in 2013, serviceminder had one mission in mind: to help home service (and commercial service) franchise businesses acquire and convert more leads, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Image Cube Gives 100% Hustle for 100% Chiropractic",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-13-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/image-cube-100-chiropractic/",
+                "paragraph": "It\u2019s amazing what one can accomplish in just a short year. At the annual IFA Conference last year, Image Cube had the privilege of meeting [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Mike Bann Does Good & Donates Thousands This Holiday Season",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-12-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-good-news/",
+                "paragraph": "Just in time for the holidays \u2013 how about a little feel good news? For the last 20 years, Mike Bann from Bann Business Solutions [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Ditch The Paper & Go Digital with One Click Contractor!",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-11-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/one-click-contractor/",
+                "paragraph": "One Click Contractor is a digital sales platform built exclusively for in-home sales professionals. One Click provides franchisors with features that eliminate the lack of [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "ServiceMinder Awarded #1 By Entrepreneur Media",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-10-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-entrepreneur/",
+                "paragraph": "Upon its founding in 2013, serviceminder.io had one mission in mind: to help home service (and commercial service) franchise businesses acquire and convert more leads, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Using A.I. in Reputation Management with Consumer Fusion",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Consumer-Fusion-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/ai-in-reputation-management/",
+                "paragraph": "Consumer Fusion is the only AI-powered reputation management solution provider that specializes in removing illegitimate negative reviews on over 60 online review sites. With more [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "10 Frequently Asked Questions About Franchising",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-1-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchising-faqs/",
+                "paragraph": "FranNet is the leader in franchise consulting. We believe in educating our clients so that they make smart, informed decisions about how to invest in [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Why Restaurants & Franchise Brands Use C Squared Advisors",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-9-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/c-squared-advisors-services/",
+                "paragraph": "C Squared Advisors is an independent investment bank that provides financial and transaction advisory services to multi-unit owners in the restaurant and franchise industries. They [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FisherZucker Joint Employer Update: NLRBeef with Franchising",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-1-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/fisherzucker-joint-employer-update-nlrbeef-with-franchising/",
+                "paragraph": "On October 27, 2023, the National Labor Relations Board (NLRB) published a rule establishing a new standard for determining whether entities will be considered \u201cjoint [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Targeted Retail Traffic Using Google Maps with Map Ranks",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-8-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/targeted-google-maps-retail-traffic/",
+                "paragraph": "Map Ranks is a Local SEO company that works with franchise brands to improve their online presence using Google Maps. They have worked with brands [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Leveraging Short-Form Videos to Build (and Sell) Your Franchise Brand",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/short-form-franchise-videos/",
+                "paragraph": "As a franchisor, the challenge isn\u2019t just to sell a product or service; it\u2019s to sell an entire business model. In today\u2019s fast-paced digital world, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How Epic Managers Increased EBITDA 40% by Paying Managers MORE",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/increase-ebitda-managers/",
+                "paragraph": "Epic Managers helps franchisees hire high-performing unit-level managers. We have over 20 years of experience as multi-unit, multi-brand franchisees, and our hiring system delivered best-in-network [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Connecting Great Franchise Brands with Exceptional Leaders",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/exceptional-franchise-leaders/",
+                "paragraph": "Are you in the franchise industry, searching for that perfect match between exceptional leaders and top-notch brand cultures? Look no further, because Careertopia is here [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Unlocking Efficiency: How AR Automation Elevates Service-Based Franchise Brands",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/ar-automation-service-franchise-brands/",
+                "paragraph": "In the franchise world, consistency is king. Service-based franchise brands that leverage QuickBooks for their accounting often grapple with the challenges of maintaining uniformity across [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "SeoSamba\u2019s Centralized Blogging Tool Gets a Boost with AI Integration",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/seosambas-centralized-blogging-tool-gets-a-boost-with-ai-integration/",
+                "paragraph": "SeoSamba, a leading provider of comprehensive marketing automation solutions, is thrilled to announce a significant upgrade to its Blog and Press Release tool, incorporating cutting-edge [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "The Vital Role of Account Managers in Digital Agencies",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/account-managers-digital-agencies/",
+                "paragraph": "In the dynamic world of digital marketing, where strategies evolve by the minute, having a trusted guide by your side can make all the difference. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Increase Your Fran Dev Results by 300% with ClientTether",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/increase-fran-dev-results/",
+                "paragraph": "With budgets tightening, candidate volumes decreasing, and pressures mounting to maintain or grow franchise sales results today, it\u2019s daunting for franchising executives to meet their [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Franchise Printing Just Got Easier with Print Propel by Image Cube",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-printing-solution/",
+                "paragraph": "With 19 years of printing industry experience at Image Cube, we have seen many franchises struggle with inconsistent branding, wasteful repeat spending, uncoordinated marketing as [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "John Francis Presented Office Pride System\u2019s Highest Honor",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/john-francis-presented-office-pride-systems-highest-honor/",
+                "paragraph": "Longtime Franchise Consultant John Francis Presented\u00a0Office Pride System\u2019s Highest Honor October 27, 2023 //\u00a0Franchising.com\u00a0// PALM HARBOR, Fla. \u2013 John Francis, who served on the Office [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Driving Franchisee Growth in 2024: Building Your Local Marketing Strategy",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/2024-local-marketing-strategy/",
+                "paragraph": "2024 is just around the corner, and as planning for the year ahead is in full swing, DevHub invites you to an upcoming webinar where [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Generative A.I. for your Customer Reviews",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/generative-a-i-for-your-customer-reviews/",
+                "paragraph": "As companies are increasingly confronted with the new frontier of technological innovation, they will also need to integrate these tools within their workflows to remain [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FranFund Voted #1 Financing Franchise Supplier by Entrepreneur Magazine",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franfund-voted-1-financing-franchise-supplier-by-entrepreneur-magazine/",
+                "paragraph": "FranFund has been recognized as the top franchise supplier for Banking/Financing by Entrepreneur Magazine, the world\u2019s premier magazine dedicated to business and entrepreneurship. This prestigious [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How FSN Supplier Members are Driving Franchise Success",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/how-fsn-supplier-members-are-driving-franchise-success/",
+                "paragraph": "Franchise Supplier Network is committed to enhancing the franchisor experience, serving as your dedicated partner. Our primary objective is to help franchisors find the perfect [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Using A.I. in Organic Marketing with Rallio",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Rallio-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/using-a-i-in-organic-marketing-with-rallio/",
+                "paragraph": "Rallio is a powerful SaaS platform combining cloud-based social media technology, artificial intelligence and employee advocacy. By automating agency-like services and employee advocacy across their [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Using AI as a Force Multiplier in Your Business",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/using-ai-as-a-force-multiplier-in-your-business/",
+                "paragraph": "The 2023 Springboard Conference brought together innovative minds to explore the future of the franchise industry. During the conference, our very own Ryan Hicks dove [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Lease Negotiation Checklist: Ensuring Favorable Lease Terms to Save You Money",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-1-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/lease-negotiation-checklist-ensuring-favorable-lease-terms-to-save-you-money/",
+                "paragraph": "In the world of retail leasing, securing favorable terms can make all the difference for your business. Before you sign, take a moment to review [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FSN Members Rank on Entrepreneur\u2019s 2023 Top Franchise Suppliers List",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/fsn-members-rank-on-entrepreneurs-2023-top-franchise-suppliers-list/",
+                "paragraph": "FSN Members hit it BIG in the Entrepreneur 2023 Top Franchise Supplier Rankings with 4 Members voted #1 in category and 20 Members total on [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Franchise Industry News & Updates",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/09/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-industry-news-updates/",
+                "paragraph": "Franchise Supplier Network is the ultimate hub for staying updated on the latest happenings in the franchising industry. With a team of seasoned professionals deeply [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 025: How to Rebrand a 40-Year-Old Startup",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/10/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-025-how-to-rebrand-a-40-year-old-startup/",
+                "paragraph": "Northeast Color specializes in brick and mortar branding solutions for the franchise industry. Their years of experience producing branded interior & exterior signage for national [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "A.I. in Paid Marketing with Eulerity",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/09/Eulerity-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/a-i-in-paid-marketing-with-eulerity/",
+                "paragraph": "In today\u2019s dynamic business landscape, staying ahead means embracing innovation, and Artificial Intelligence (A.I.) is at the forefront of transformative technologies. Eulerity, a trailblazing A.I. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Springboard Conference 2023 Sessions to Watch",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/09/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/springboard-conference-2023-sessions-to-watch/",
+                "paragraph": "For many emerging franchisors, franchising represents an entirely new landscape. Your prior business experience does little to illuminate a path in franchising. You can\u2019t rely [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Top Franchise Brands Find Success with FSN",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/09/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/top-franchise-brands-find-success-with-fsn/",
+                "paragraph": "Franchise Supplier Network is your dedicated partner in optimizing the franchisor experience. Our primary goal is to assist franchisors in identifying the perfect supplier partners [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "The Value of the FSN Supplier Membership",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/08/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/the-value-of-the-fsn-supplier-membership/",
+                "paragraph": "Become a part of OUR extended franchise family. To most, breaking into the franchise industry can be daunting. To our FSN Team, the franchise community [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 024: How Emerging Brands Can Level the Playing Field",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/08/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-024/",
+                "paragraph": "Discover My Franchise is an innovative platform that revolutionizes the franchise selling process. At its core is the Discovery Center, a fully customizable portal that [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "3 Tips for Growing Your Franchise",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/08/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/3-tips-for-growing-your-franchise/",
+                "paragraph": "via Johnny Franchise Franchising is currently experiencing a significant increase in interest, growth and profitability. Many of my franchisor clients have shared their positive trends, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Keeping Ahead of the Latest Franchising News",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-1-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/latest-franchising-news/",
+                "paragraph": "Franchise Supplier Network is your one-stop destination for all the latest franchise news and insights into the franchise industry. Our team of experts is deeply [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 023: Using AI to Eliminate Avoidable Expenses",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-12-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-023/",
+                "paragraph": "Lineup.AI provides restaurants with an easy-to-use and incredibly accurate forecasting software that equips the C-Suite and managers with exactly what they need, and when they [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 022: Revolutionize Franchisee Customer Experience",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-11-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-022/",
+                "paragraph": "Delightree is a cutting-edge AI-powered training & operations app that revolutionizes the way you manage your business. It accelerates employee onboarding and training, transforming your [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 021: Finding Quality Candidates to Grow your Franchise Brand",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-9-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-021/",
+                "paragraph": "As an Inc. 5000 organization, FranNet connects franchise brands with quality candidates to scale their franchise without the headache. With over 80 local representatives in [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 020: Finding Top Talent for your Franchise Brand",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-020/",
+                "paragraph": "Careertopia\u2019s objective focuses on identifying and placing the best-of-the-best people in C-level and senior positions within franchise organizations. Their partners\u2019 deep connections within the franchise [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 019: Strategies for Getting your Franchise Candidates Funded",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-019/",
+                "paragraph": "As the #1 funding supplier choice of top broker networks, FranFund knows what it takes to get a deal done. They have a highly experienced [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 018: Enhancing Employee Relationships & Retention through Technology",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-018/",
+                "paragraph": "Small Software helps multi-unit franchise operators create & retain happy, connected, loyal employees. Small Software is an employee relationship management app. Imagine a centralized hub [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 017: Game-Changing Training to Empower the Modern Workforce",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-017/",
+                "paragraph": "1Huddle is a coaching and development platform that uses quick-burst mobile games to more quickly and effectively educate, elevate, and energize your workforce \u2014 from [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 016: Building Lasting Relationships to Grow Your Business",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-016/",
+                "paragraph": "AnswerConnect is the voice of your business. They help ensure every caller receives a professional response from a real person, 24/7. AnswerConnect works with your [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 015: Insights from \u2018Johnny Franchise\u2019 on Risk Reduction and Results Improvement",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-1-copy-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-015/",
+                "paragraph": "As Johnny can tell you\u2026 \u201cI am not your average Franchise Advisor, Speaker or Consultant. I have over 30 years of real-world, first-hand experience in [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 014: Management & Marketing Insights for Emerging Home Service Brands",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-014/",
+                "paragraph": "Thryv is a small business software platform that provides a variety of tools to help businesses manage their operations. The platform offers features such as [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 013: Decoding the Marketing Formula to Unleash Franchise Success",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-013/",
+                "paragraph": "Founded in 2010, RocketBarn Marketing partners with franchise systems to get your local franchisees bought into digital marketing efforts and seeing ROI on their campaigns. [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 012: Franchise Growth Tips for Your Brand",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-012/",
+                "paragraph": "Franchise growth comes from innovation and organization. ClientTether is the franchise sales automation and CRM of choice for franchise systems and franchise development groups. Their [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FSN Testimonials from Franchisors + Suppliers",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-network-testimonials/",
+                "paragraph": "At this year\u2019s Franchise YoungConference, we were lucky enough to sit down with a dozen franchisors and supplier members to understand what makes this industry [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How Suttle-Straus Drove $1.95M in Memberships for Goldfish Swim School",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/suttle-straus-case-study/",
+                "paragraph": "Goldfish Swim School Franchising\u00a0wanted to use a portion of their Brand Marketing Fund to drive memberships for their franchised swim schools, seeking a campaign that [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FSN Sees Franchisors Target Growth, Bemoan Risk Management",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchisors-risk-management/",
+                "paragraph": "Draw a circle around what you can control, and focus on that. As most Franchisors see, their area of most concern is \u2018growing the brand.\u2019 [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Skyrocket Your Franchisee Social Media & Reputation Performance with A.I.",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/ai-for-franchise-brands/",
+                "paragraph": "The future is here, and it\u2019s powered by Artificial Intelligence (A.I.). Over recent months, we\u2019ve found ourselves discussing this powerhouse of a tool with our [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "4 Tips to Close FranDev Deals Faster",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/4-tips-to-close-frandev-deals-faster/",
+                "paragraph": "FSN Supplier ClientTether is a franchise CRM program\u00a0that promises industry leading\u00a0speed to lead with incredibly fast marketing automation tools. Because being first really does matter, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Franchise Employee Operations Supplier Discover Day Takeaways",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-employee-operations-supplier-discover-day-takeaways/",
+                "paragraph": "Over the last 6 months, Franchise Supplier Network has been working with many franchisors to understand their strategic initiatives, projects and requirements for the short [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 011 \u2013 Intent Data Marketing For Franchise Systems",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/intent-data-marketing-for-franchise-systems/",
+                "paragraph": "The below is an exclusive offer from Bann Business Solutions: If you are looking for the best prospects, look no further than the ones who [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FranNet Franchise Success Stories",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/frannet-franchise-success-stories/",
+                "paragraph": "FranNet is a leading franchise consulting company that has been helping entrepreneurs find the right business opportunities since 1987. With over 100 experienced consultants located [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How AI is Changing the Franchise Industry",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/ai-franchise-industry/",
+                "paragraph": "If you\u2019ve been watching or reading any tech news over the past few years, you\u2019re well aware of the importance of artificial intelligence. It\u2019s taking [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 010: Save $1M+ Per Year By Consolidating Your Operations Tech Stack",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-010/",
+                "paragraph": "Managing your business is vital to ensuring everything runs smoothly. Woven is a multi-unit business management platform for franchisees and independent owners, enabling them to [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 009: How To Dominate Google Maps",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-009/",
+                "paragraph": "You have an amazing business. Maybe you\u2019re struggling to find that target audience that you know would benefit from connecting with you. But whatever you [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 008: How to Optimize & Automate Your Digital Marketing",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-2-4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-008/",
+                "paragraph": "Whether we like it or not, the world is changing. Technology is continuing to evolve and grow in ways that can help optimize business. These [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 007: How Franchisors Can Leverage Storytelling",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-007/",
+                "paragraph": "Sharing a story about your business is a powerful tool. When done right, you can make people feel connected to your franchise and get in [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "3 Easy Steps for Franchise Success",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-2-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/3-easy-steps-for-franchise-success/",
+                "paragraph": "At Franchise Supplier Network, we help emerging, regional, and national franchise organizations discover and connect with the perfect supplier partners for their specific needs and [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FSN Suppliers at Franchise Young Conference",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/fsn-suppliers-at-franchise-young-conference/",
+                "paragraph": "Franchise YoungConference, presented by the team behind Franchise Supplier Network, is one of our favorite events of the year! It\u2019s a place for the young [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Seamless Health\u2019s Groundbreaking Employee Benefits Approach",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/seamless-health-employee-benefits/",
+                "paragraph": "The health insurance industry is notorious for being expensive. Finding options that are quality but still affordable for your employees is challenging. The health of [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Supercharge Your Growth & Brand Awareness",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/Resource-Banner-2-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supercharge-your-growth-brand-awareness/",
+                "paragraph": "FSN exists to help the franchise community get connected, and get results. Why become a Franchise Supplier Network Supplier Member? Our large network and expertise [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "3 Power Women in Franchising",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/3-power-women-in-franchising/",
+                "paragraph": "It\u2019s Women\u2019s History Month and it gives us a great excuse to recognize powerful women in franchising and highlight their achievements. According to Entrepreneur, 31% [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Franchise Development Technology Supplier Discover Day Takeaways",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-development-technology/",
+                "paragraph": "We recently hosted another Supplier Discovery Day, this time focusing on franchise development technology to augment your fran dev strategy. We spoke with leadership at [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "6 Benefits for FSN Supplier Members",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/fsn-supplier-member-benefits/",
+                "paragraph": "Franchise Supplier Network was built for the franchise community. We bridge the gap between suppliers and franchisors, adding value at both sides of the table. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Woven Launches a New Software System for Engagement & Development",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Resource-Banner-1-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/woven-launches-a-new-software-system-for-engagement-development/",
+                "paragraph": "FSN Supplier Woven is a multi-unit business management software to optimize organization in companies and teams. Recently, a new addition to their software was announced. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Orchatect on Franchise Technology Evolution",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/orchatect-on-franchise-technology-evolution/",
+                "paragraph": "The below paper is written by FSN Featured Supplier, Orchatect: 2022 saw an initial movement toward integrated solutions and 2023 onwards we will see brands [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "FOR SUPPLIERS: 10 Ways to Prepare for IFA Convention",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/10-ways-to-prepare-for-ifa-convention/",
+                "paragraph": "We know that almost everyone in franchising is gearing up for one of our favorite events of the year \u2013 the 2023 IFA Annual Convention. [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Franchise Development Technology from Top Suppliers",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Resource-Banner-1-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-development-technology-from-top-suppliers/",
+                "paragraph": "As technology advances, the importance of understanding and optimizing this aspect of your franchise business only grows. Ahead of our next Supplier Discovery Day on [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 006 \u2013 How Insurance Compliance Can Improve Your Exit Strategy",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-wire-006/",
+                "paragraph": "Ensuring that your franchise is connected with the right resources is our specialty \u2013 especially when it involves help you didn\u2019t know you needed. Rikor [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Take Your Home Service Brand Digital with Serviceminder",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-10-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/home-service-brands/",
+                "paragraph": "Although it may be hard for some home service brands to let go of hard copies because it\u2019s what you and your customers are comfortable [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 005 \u2013 How To Select A Bookkeeping Partner For Your Franchisees",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-9-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-005/",
+                "paragraph": "In this episode we hear from BooxKeeping CEO Max Emma to learn about his simplified bookkeeping service for franchisees. BooXkeeping Corporation is a Preferred Bookkeeping [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "The Franchise Supplier Network 3-Step Process",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-8-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/fsn-process/",
+                "paragraph": "With 80 years of collective franchise experience between us, we\u2019ve nailed our method of helping franchisors thrive AND we\u2019ve perfected the process to make it [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 004 \u2013 A Seamless Approach To Medical Coverage",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/18-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-004/",
+                "paragraph": "In this episode, we discuss all things health benefits, cost savings and value creation for employees with Seamless Health CEO, Allen Jackson. This is an [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 003 \u2013 Two Things High Performing Franchisees Do To Drive Results",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/17-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-003/",
+                "paragraph": "In the 3rd episode of the Franchise Supplier Wire podcast, we discuss \u201cTwo Things High Performing Franchisees Do To Drive Results\u201d with multi unit franchisee [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 002 \u2013 Tips On Identifying And Managing Your Franchise Tech Stack",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/16-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-002/",
+                "paragraph": "In this episode, we do a deep dive with the Orchatect team discussing all things technology stack consolidation for franchise organizations. In a world where [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Franchise Supplier Wire 001 \u2013 Driving Results With A Purpose Driven Marketing Company",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/15-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/supplier-wire-001/",
+                "paragraph": "On the first episode of the Franchise Supplier Wire Podcast, Joe Soltis and Issac Kebe from Choice Local discuss driving sales and marketing results for [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Marketing Supplier Discovery Day Takeaways",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-7-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/marketing-supplier-discovery-day-takeaways/",
+                "paragraph": "We hosted our first of many Supplier Discovery Days earlier this month, and it was a great webinar event. Our panel of marketing supplier executives [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Download Your 2023 Franchise Conference Calendar",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/download-your-2023-franchise-conference-calendar/",
+                "paragraph": "Let\u2019s talk conferences. We get it \u2013 if you are in franchising, time seems to slip away. It\u2019s easy to not prioritize conferences & events [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Our 6 Benefits for Franchise Brands",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/our-6-benefits-for-franchise-brands/",
+                "paragraph": "Running a franchise brand comes with its own set of unique challenges. And in our crowded industry, it\u2019s hard to know where to find the [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "3 New Methods To Reach Gen Z Consumers",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/reach-gen-z-consumers/",
+                "paragraph": "Gen Z is one of the trickiest audiences to reach, but also one of the most important. If it feels like new trends, new features, [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "23 Franchise Supplier Problems We\u2019re Solving in 2023",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/franchise-supplier-solutions/",
+                "paragraph": "After decades in franchising as industry suppliers, we\u2019ve heard just about every franchise supplier problem out there. We are excited for the year ahead and [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Rallio Case Study: How Premium Service Brands Franchise Boosts Local Presence",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Resource-Banner-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/rallio-case-study/",
+                "paragraph": "Premium Service Brands, a multi-brand franchisor with franchisees in a variety of home services niches, including painting, housecleaning, plumbing, and garage door services, has tapped [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "2023 Marketing Trends from Top Suppliers",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/12/Resource-Banner-3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/2023-marketing-trends/",
+                "paragraph": "Ahead of our first of many Supplier Discovery Days in January, we asked our panelists (executives at 5 top marketing supplier brands) what trends they [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How AI & Automation Can Enhance Your Recruitment Marketing Strategy",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/12/Resource-Banner-2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/how-ai-automation-can-enhance-your-recruitment-marketing-strategy/",
+                "paragraph": "In today\u2019s competitive job market, it\u2019s more important than ever to have a strong recruitment marketing strategy. And while there are a lot of traditional [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "How to Increase Franchise Profits in 2023",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/12/Resource-Banner-1-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/increase-franchise-profits/",
+                "paragraph": "Through our work with franchise organizations and the suppliers who service them, we are uniquely aware of the challenges and opportunities facing the industry. We [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Woven Raises $1.5M to Streamline Franchise Operations",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/12/2-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/woven-funding-streamline-franchise-operations/",
+                "paragraph": "Indianapolis: Nov. 15, 2022 (via PR Newswire) Woven, the leading multi-unit business management software, announced it has raised $1.5M\u00a0in seed funding led by\u00a0Glow Brands. With [\u2026]"
+            },
+            {
+                "Category": "Post",
+                "Title": "Leading Marketing Tech Platform Unveils Smart Social Media Assistant; Suggests Local Post & Review Captions FOR Franchisees (Using Advanced AI)",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/3-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/rallio/",
+                "paragraph": "Irvine California: October 19, 2022 Leading franchise marketing tech company RALLIO just launched an industry changing \u201csmart social media assistant\u201d that does the heavy lifting [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Innovating E-commerce & How Franchise Systems Manage Supplies Procurement",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/4-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/altus-commerce/",
+                "paragraph": "On this episode, we chat with Jason Parrish (CEO, Altus Commerce) and Chris Naso (Product Officer, Altus Commerce). They are technology suppliers with an expertise [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Onaroll: The Employee Rewards App \u2013 Incentivize Shift Workers to Show Up & Perform",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/5-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/onaroll-the-employee-rewards-app-incentivize-shift-workers-to-show-up-perform/",
+                "paragraph": "Episode Description On this episode, we chat with Founder & CEO of Onaroll, Peter Ginsberg. We discuss his tech background, how working at Starbucks inspired [\u2026]"
+            },
+            {
+                "Category": "Podcast",
+                "Title": "Tech Spotlight: The Platform for Managing Home Service Franchise Brands",
+                "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/6-550x300.png",
+                "CategoryUrl": "https://franchisesuppliernetwork.com/serviceminder-io-podcast/",
+                "paragraph": "Episode Description In this interview with John Keene, CEO of serviceminder, we discuss his innovative home service platform for managing and operating home services franchises. [\u2026]"
+            }
+        ]
+    }
+}

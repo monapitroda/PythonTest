@@ -1,0 +1,123 @@
+{
+    "Assessment": {
+        "Section1": {
+            "HeaderImage": "https://franchisesuppliernetwork.com/wp-content/themes/franchise-supplier-network/img/banner-inner-01.jpg",
+            "HeaderText": "Assessment"
+        },
+        "Section2": {
+            "Header": "Franchising\u2019s Premier Supplier",
+            "SubHeader": "Recommendations Engine:",
+            "Paragraph": "We maintain the world\u2019s largest rolodex of franchise partners and service providers. We actively vet and catalog their capabilities, case studies, clients, and ideal client profiles. This is a free resource helping franchisors get connected and get results across all major disciplines in franchising. Your data will NEVER be shared with 3rd parties unless you request to be contacted.",
+            "CategoryLists": [
+                {
+                    "category": "Marketing Services & Technology",
+                    "subCategory": [
+                        "Full Service Agency",
+                        "Specialty Marketing Agency",
+                        "Public Relations",
+                        "Paid Search",
+                        "Paid Social Media",
+                        "Paid Display",
+                        "Search Engine Optimization",
+                        "1st Party Data Capabilities",
+                        "Social Media Management",
+                        "Reputation Management",
+                        "Listings Management",
+                        "Text Message Marketing",
+                        "Loyalty Programs",
+                        "Influencer Marketing",
+                        "Website Design & Development",
+                        "Market Research",
+                        "Customer Intelligence",
+                        "Analytics and Business Intelligence",
+                        "Marketing Automation",
+                        "Printing, Direct Mail & Brand Image",
+                        "VR Experience Design"
+                    ]
+                },
+                {
+                    "category": "Operations Software &  Services:",
+                    "subCategory": [
+                        "POS",
+                        "CRM",
+                        "Franchise Management",
+                        "Employee Training",
+                        "Employee Retention",
+                        "Local Hiring",
+                        "Insurance Compliance",
+                        "Field Audits",
+                        "Performance Optimization",
+                        "Team Management",
+                        "Operations Management",
+                        "Maintenance Tracking",
+                        "Phone Systems",
+                        "Communications",
+                        "Franchise Manuals"
+                    ]
+                },
+                {
+                    "category": "Franchise Development",
+                    "subCategory": [
+                        "Outsourced Sales Teams (FSO\u2019s)",
+                        "Brokerages",
+                        "Portals",
+                        "Lead Generation Services",
+                        "FranDev Website Design/ Development",
+                        "SEO",
+                        "Paid Media",
+                        "Social media"
+                    ]
+                },
+                {
+                    "category": "Real Estate Services & Tech",
+                    "subCategory": [
+                        "Location Intelligence",
+                        "Site Mapping",
+                        "Lease Management",
+                        "Real Estate Development"
+                    ]
+                },
+                {
+                    "category": "Financial Services:",
+                    "subCategory": [
+                        "Credit Card Processing",
+                        "Royalty Processing",
+                        "Accounting",
+                        "Franchise financing",
+                        "Banking"
+                    ]
+                },
+                {
+                    "category": "Legal",
+                    "subCategory": [
+                        "Franchise My Business (FDD)",
+                        "Full Service Law Firm",
+                        "Litigation, Arbitration & Mediation",
+                        "Trademarking & Trademark Infringement",
+                        "Regulatory Compliance",
+                        "Copyright Licensing",
+                        "Business Transactions"
+                    ]
+                },
+                {
+                    "category": "Capital & Acquisitions",
+                    "subCategory": [
+                        "Sell My Company",
+                        "Buy A Company",
+                        "Meet Angel Investors",
+                        "Meet Investment Bankers",
+                        "Meet Private Equity Companies"
+                    ]
+                },
+                {
+                    "category": "General",
+                    "subCategory": [
+                        "Staffing / Executive Search",
+                        "Franchise Conferences",
+                        "Other"
+                    ]
+                }
+            ]
+        }
+    }
+}

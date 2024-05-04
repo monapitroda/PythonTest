@@ -1,0 +1,699 @@
+{
+    "Home": {
+        "section_1": {
+            "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/slider01.jpg",
+            "Heading": "Find The Perfect Suppliers & Partners For Your Franchise",
+            "Paragraph": "Leverage our network and expert advisors to discover & connect with best fit suppliers."
+        },
+        "section_2": {
+            "Section2Header": "How it works",
+            "Section2BodyList": [
+                {
+                    "HeaderText": "Supplier Vetting",
+                    "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/how-works-icon-01.png",
+                    "Paragraph": "We track and evaluate hundreds of franchise suppliers per year across all major disciplines. Our superpower is identifying value creating supplier matches for franchise brands."
+                },
+                {
+                    "HeaderText": "Trusted Advisors",
+                    "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/how-works-icon-02.png",
+                    "Paragraph": "We\u2019ll assess your goals, match you with our top recommendations, and be here as a sounding board when needed (all at no cost to you)."
+                },
+                {
+                    "HeaderText": "The FSN Promise",
+                    "ImageURL": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/how-works-icon-03.png",
+                    "Paragraph": "Our highest obligation is to help franchise organizations profit and prosper. We exist to help create better franchisee and customer experiences and increased unit level economics."
+                }
+            ]
+        },
+        "Section3": {
+            "Section3Header": "We\u2019ve Helped",
+            "Section3ImageList": [
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hungry-howies.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Unleashed-Brands.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/BrightStar-Care.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Cappriottis.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/buzz-franchise.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/propelled.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/kolache.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hungry-howies.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Unleashed-Brands.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/BrightStar-Care.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Cappriottis.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/buzz-franchise.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/propelled.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/kolache.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hungry-howies.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Unleashed-Brands.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/BrightStar-Care.jpg",
+                "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Cappriottis.jpg"
+            ]
+        },
+        "Section4": {
+            "Header": "Dedicated FSN Advisor",
+            "Paragraph": "Put our knowledge & expertise to work for you throughout the discovery and selection process. Reduce the risk of making the wrong partner selection.",
+            "ProcessList": [
+                {
+                    "Section4ImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/network-icon.svg",
+                    "Section4Header": "Network",
+                    "Section4Paragraph": "We have deep industry relationships across the full stack of partner needs spanning most major sectors."
+                },
+                {
+                    "Section4ImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/knowledge-icon.svg",
+                    "Section4Header": "Knowledge",
+                    "Section4Paragraph": "We catalog, track and keep tabs on over 500+ suppliers across all major sectors and franchisor needs."
+                },
+                {
+                    "Section4ImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/pricing-icon.svg",
+                    "Section4Header": "Special Pricing",
+                    "Section4Paragraph": "Many of our supplier members offer favored nations pricing & pilot terms to brands who connect through FSN."
+                },
+                {
+                    "Section4ImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/advisor-icon.svg",
+                    "Section4Header": "Dedicated FSN Advisor",
+                    "Section4Paragraph": "Put our knowledge & expertise to work for you throughout the discovery and selection process. Reduce the risk of making the wrong partner selection."
+                }
+            ]
+        },
+        "FeatureSection": {
+            "Header": "Featured Suppliers",
+            "Paragraph": "Browse our carefully curated list of featured franchise supplier members.\nExplore their offerings, accolades, latest news and articles, request a meeting, and more.",
+            "CategoryList": [
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/onaroll.jpg",
+                    "FeatureSectionHeader": "Onaroll",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/onaroll/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Color-Horizontal.png",
+                    "FeatureSectionHeader": "Leasecake",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/leasecake/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/rallio.jpg",
+                    "FeatureSectionHeader": "Rallio",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/rallio/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/full-color.png",
+                    "FeatureSectionHeader": "One Click Contractor",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/one-click-contractor/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/892d5158ab592a27871684730f8bc28d.svg",
+                    "FeatureSectionHeader": "Discover My Franchise",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/discover-my-franchise/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/PL-VtoneLogo_Full-Color_website@2x.png",
+                    "FeatureSectionHeader": "PandoLogic",
+                    "FeatureSectionCategoryName": "Human Resources",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/pandologic/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/FF_Logo.png",
+                    "FeatureSectionHeader": "FranFund",
+                    "FeatureSectionCategoryName": "Financial Services",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/franfund/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/download.png",
+                    "FeatureSectionHeader": "Lineup.ai",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/lineup-ai/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/ProfitKeeper-Logo-2400.png",
+                    "FeatureSectionHeader": "ProfitKeeper",
+                    "FeatureSectionCategoryName": "Financial Services",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/profitkeeper/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/DavidEnergy_Logo-RGB-1-scaled.jpg",
+                    "FeatureSectionHeader": "David Energy",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/david-energy/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/cropped-smallsoftware_logo_400x50.png",
+                    "FeatureSectionHeader": "Small Software",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/small-software/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/124631f3-5bf0-43a3-a18c-544bc3e7acab.png",
+                    "FeatureSectionHeader": "Integrated Digital Strategies",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/integrated-digital-strategies/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/702e885e-3983-4737-ac50-a95c24ec6fe7-1603465786149.png",
+                    "FeatureSectionHeader": "Scorpion",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/scorpion/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/proposify_wordmark-4.png",
+                    "FeatureSectionHeader": "Proposify",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/proposify/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/careertopia_logo_color-1.jpg",
+                    "FeatureSectionHeader": "Careertopia Franchise Executive Search",
+                    "FeatureSectionCategoryName": "Executive Consultants",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/careertopia-franchise-executive-search/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/thryv_RGB_Web.jpg",
+                    "FeatureSectionHeader": "Thryv",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/thryv/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/Colored-Full-300x112-1.png",
+                    "FeatureSectionHeader": "Two Ladders",
+                    "FeatureSectionCategoryName": "Human Resources",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/two-ladders/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/logo.jpg",
+                    "FeatureSectionHeader": "Map Ranks",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/map-ranks/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/1595957493295.jpeg",
+                    "FeatureSectionHeader": "AnswerConnect",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/answerconnect/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/SHOW-MAKER-2-scaled.jpeg",
+                    "FeatureSectionHeader": "Showmaker Productions",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/showmaker-productions/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/62ffafc08e710764378b811b_single-color-logo-color-update.png",
+                    "FeatureSectionHeader": "ClientTether",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/clienttether/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/logo.png",
+                    "FeatureSectionHeader": "1Huddle",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/1huddle/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Elysium.jpg",
+                    "FeatureSectionHeader": "Elysium Marketing Group",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/elysium-marketing-group/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/SAS_Logo.png",
+                    "FeatureSectionHeader": "Specialized Accounting Services",
+                    "FeatureSectionCategoryName": "Financial Services",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/specialized-accounting-services/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/favicon_96x96-1.svg",
+                    "FeatureSectionHeader": "Franchisely",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/franchisely/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/mfv-logo-center.webp",
+                    "FeatureSectionHeader": "MFV Expositions",
+                    "FeatureSectionCategoryName": "Events",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/mfv-expositions/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/NEC-Logo-Gradient.png",
+                    "FeatureSectionHeader": "Northeast Color",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/northeast-color/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-12.37.20-PM.png",
+                    "FeatureSectionHeader": "Altus Commerce",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/altus-commerce/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/download-2.png",
+                    "FeatureSectionHeader": "Bann Business Solutions",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/bann-business-solutions/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Logo-complete-800x400-1.jpeg",
+                    "FeatureSectionHeader": "Suttle-Straus",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/suttle-straus/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/FranNetLogo_2023_Blue-e1673414664442.png",
+                    "FeatureSectionHeader": "FranNet",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/frannet/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/12/logo.webp",
+                    "FeatureSectionHeader": "Rikor",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/rikor/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/image001.png",
+                    "FeatureSectionHeader": "Seamless Health",
+                    "FeatureSectionCategoryName": "Human Resources",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/seamless-health/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/1595468084394.jpeg",
+                    "FeatureSectionHeader": "Orchatect",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/orchatect/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Inline-Blue-Hi-res.png",
+                    "FeatureSectionHeader": "Upfront",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/upfront/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/1596646362732.jpeg",
+                    "FeatureSectionHeader": "Consumer Fusion",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/consumer-fusion/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/logo-clicktecs.webp",
+                    "FeatureSectionHeader": "ClickTecs",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/clicktecs/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/Delightree.svg",
+                    "FeatureSectionHeader": "Delightree",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/delightree/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/cropped-cropped-CL-3.png",
+                    "FeatureSectionHeader": "Choice Local",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/choice-local/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/Location3-logo-2020.png",
+                    "FeatureSectionHeader": "Location3",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/location3/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/Entrepreneur_logo.png",
+                    "FeatureSectionHeader": "Entrepreneur Magazine",
+                    "FeatureSectionCategoryName": "Publications",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/entrepreneur-magazine/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/FZ-Logo.png",
+                    "FeatureSectionHeader": "Fisher Zucker",
+                    "FeatureSectionCategoryName": "Legal",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/fisher-zucker/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/FE-Logo.jpg",
+                    "FeatureSectionHeader": "Franchise Elevator PR",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/franchise-elevator-pr/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/Fishman-Logo_Outlines-copy-1-pdf.jpg",
+                    "FeatureSectionHeader": "Fishman PR",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/fishman-public-relations/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/NOCAP-Sports.jpeg",
+                    "FeatureSectionHeader": "NOCAP SPORTS",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/nocap-sports/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/SM-logo-2.png",
+                    "FeatureSectionHeader": "Serviceminder",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/serviceminder/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/onaroll.jpg",
+                    "FeatureSectionHeader": "Onaroll",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/onaroll/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Color-Horizontal.png",
+                    "FeatureSectionHeader": "Leasecake",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/leasecake/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/rallio.jpg",
+                    "FeatureSectionHeader": "Rallio",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/rallio/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/full-color.png",
+                    "FeatureSectionHeader": "One Click Contractor",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/one-click-contractor/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/07/892d5158ab592a27871684730f8bc28d.svg",
+                    "FeatureSectionHeader": "Discover My Franchise",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/discover-my-franchise/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/PL-VtoneLogo_Full-Color_website@2x.png",
+                    "FeatureSectionHeader": "PandoLogic",
+                    "FeatureSectionCategoryName": "Human Resources",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/pandologic/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/02/FF_Logo.png",
+                    "FeatureSectionHeader": "FranFund",
+                    "FeatureSectionCategoryName": "Financial Services",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/franfund/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/06/download.png",
+                    "FeatureSectionHeader": "Lineup.ai",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/lineup-ai/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/ProfitKeeper-Logo-2400.png",
+                    "FeatureSectionHeader": "ProfitKeeper",
+                    "FeatureSectionCategoryName": "Financial Services",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/profitkeeper/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/05/DavidEnergy_Logo-RGB-1-scaled.jpg",
+                    "FeatureSectionHeader": "David Energy",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/david-energy/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/cropped-smallsoftware_logo_400x50.png",
+                    "FeatureSectionHeader": "Small Software",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/small-software/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/124631f3-5bf0-43a3-a18c-544bc3e7acab.png",
+                    "FeatureSectionHeader": "Integrated Digital Strategies",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/integrated-digital-strategies/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/702e885e-3983-4737-ac50-a95c24ec6fe7-1603465786149.png",
+                    "FeatureSectionHeader": "Scorpion",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/scorpion/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/04/proposify_wordmark-4.png",
+                    "FeatureSectionHeader": "Proposify",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/proposify/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/careertopia_logo_color-1.jpg",
+                    "FeatureSectionHeader": "Careertopia Franchise Executive Search",
+                    "FeatureSectionCategoryName": "Executive Consultants",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/careertopia-franchise-executive-search/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/thryv_RGB_Web.jpg",
+                    "FeatureSectionHeader": "Thryv",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/thryv/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/03/Colored-Full-300x112-1.png",
+                    "FeatureSectionHeader": "Two Ladders",
+                    "FeatureSectionCategoryName": "Human Resources",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/two-ladders/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/logo.jpg",
+                    "FeatureSectionHeader": "Map Ranks",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/map-ranks/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/1595957493295.jpeg",
+                    "FeatureSectionHeader": "AnswerConnect",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/answerconnect/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2024/01/SHOW-MAKER-2-scaled.jpeg",
+                    "FeatureSectionHeader": "Showmaker Productions",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/showmaker-productions/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/62ffafc08e710764378b811b_single-color-logo-color-update.png",
+                    "FeatureSectionHeader": "ClientTether",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/clienttether/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/logo.png",
+                    "FeatureSectionHeader": "1Huddle",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/1huddle/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/Elysium.jpg",
+                    "FeatureSectionHeader": "Elysium Marketing Group",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/elysium-marketing-group/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/02/SAS_Logo.png",
+                    "FeatureSectionHeader": "Specialized Accounting Services",
+                    "FeatureSectionCategoryName": "Financial Services",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/specialized-accounting-services/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/favicon_96x96-1.svg",
+                    "FeatureSectionHeader": "Franchisely",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/franchisely/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/mfv-logo-center.webp",
+                    "FeatureSectionHeader": "MFV Expositions",
+                    "FeatureSectionCategoryName": "Events",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/mfv-expositions/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/NEC-Logo-Gradient.png",
+                    "FeatureSectionHeader": "Northeast Color",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/northeast-color/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-12.37.20-PM.png",
+                    "FeatureSectionHeader": "Altus Commerce",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/altus-commerce/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/download-2.png",
+                    "FeatureSectionHeader": "Bann Business Solutions",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/bann-business-solutions/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/Logo-complete-800x400-1.jpeg",
+                    "FeatureSectionHeader": "Suttle-Straus",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/suttle-straus/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/01/FranNetLogo_2023_Blue-e1673414664442.png",
+                    "FeatureSectionHeader": "FranNet",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/frannet/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/12/logo.webp",
+                    "FeatureSectionHeader": "Rikor",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/rikor/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/image001.png",
+                    "FeatureSectionHeader": "Seamless Health",
+                    "FeatureSectionCategoryName": "Human Resources",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/seamless-health/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/1595468084394.jpeg",
+                    "FeatureSectionHeader": "Orchatect",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/orchatect/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2023/11/Inline-Blue-Hi-res.png",
+                    "FeatureSectionHeader": "Upfront",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/upfront/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/1596646362732.jpeg",
+                    "FeatureSectionHeader": "Consumer Fusion",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/consumer-fusion/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/logo-clicktecs.webp",
+                    "FeatureSectionHeader": "ClickTecs",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/clicktecs/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/Delightree.svg",
+                    "FeatureSectionHeader": "Delightree",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/delightree/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/11/cropped-cropped-CL-3.png",
+                    "FeatureSectionHeader": "Choice Local",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/choice-local/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/Location3-logo-2020.png",
+                    "FeatureSectionHeader": "Location3",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/location3/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/Entrepreneur_logo.png",
+                    "FeatureSectionHeader": "Entrepreneur Magazine",
+                    "FeatureSectionCategoryName": "Publications",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/entrepreneur-magazine/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/FZ-Logo.png",
+                    "FeatureSectionHeader": "Fisher Zucker",
+                    "FeatureSectionCategoryName": "Legal",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/fisher-zucker/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/FE-Logo.jpg",
+                    "FeatureSectionHeader": "Franchise Elevator PR",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/franchise-elevator-pr/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/Fishman-Logo_Outlines-copy-1-pdf.jpg",
+                    "FeatureSectionHeader": "Fishman PR",
+                    "FeatureSectionCategoryName": "Franchise Development",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/fishman-public-relations/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/10/NOCAP-Sports.jpeg",
+                    "FeatureSectionHeader": "NOCAP SPORTS",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/nocap-sports/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/SM-logo-2.png",
+                    "FeatureSectionHeader": "Serviceminder",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/serviceminder/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/onaroll.jpg",
+                    "FeatureSectionHeader": "Onaroll",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/onaroll/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/Color-Horizontal.png",
+                    "FeatureSectionHeader": "Leasecake",
+                    "FeatureSectionCategoryName": "Operations",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/leasecake/"
+                },
+                {
+                    "FeatureSectionImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/rallio.jpg",
+                    "FeatureSectionHeader": "Rallio",
+                    "FeatureSectionCategoryName": "Marketing",
+                    "FeatureURL": "https://franchisesuppliernetwork.com/featured-supplier/rallio/"
+                }
+            ]
+        },
+        "HCWHSecationOne": {
+            "Header": "3 Ways We Help Franchisors:",
+            "HelpLinkLists": [
+                {
+                    "SectionHCWHImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hcwh-icon01-small.png",
+                    "SectionHCWHText": "Assessment Survey",
+                    "SectionHCWHAttributeText": "Metric Collective Logo"
+                },
+                {
+                    "SectionHCWHImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hcwh-icon03-small.png",
+                    "SectionHCWHText": "Ideation Session",
+                    "SectionHCWHAttributeText": "Metric Collective Logo"
+                },
+                {
+                    "SectionHCWHImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hcwh-icon02-small.png",
+                    "SectionHCWHText": "Supplier Audit Deep Dive",
+                    "SectionHCWHAttributeText": "Supplier Audit Deep Dive"
+                }
+            ]
+        },
+        "HCWHSecationTwo": {
+            "HCEHLists": [
+                {
+                    "HCEHHeader": "Looking for recommendations?",
+                    "HCEHImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hcwh-icon01.svg",
+                    "HCEHParagraph": "There are a lot of potential suppliers to partner with. We specialize in keeping tabs on the best and most qualified partners for specific niches and functional needs. Our recommendations tool is a good starting point if you\u2019re looking for a short list of partners and their key strengths and weaknesses prior to spending time to meet with them. Fill out our quick assessment survey to give us a baseline understanding of where and how we can help.",
+                    "HCEHUrl": "https://franchisesuppliernetwork.com/assessment/",
+                    "HCEHText": "3 minute survey"
+                },
+                {
+                    "HCEHHeader": "Ideation Session",
+                    "HCEHImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hcwh-icon03.svg",
+                    "HCEHParagraph": "We meet with leading franchise brands and suppliers on a daily basis across a wide variety of sectors. Sometimes an idea, a breakthrough, a new technology, or a small tweak can be applied to help accelerate results and positively impact your culture and bottom line. For this 30 minute to 1 hour ideation session, bring us a problem or desired outcome and we will ideate with you to inspire potential solutions.",
+                    "HCEHUrl": "",
+                    "HCEHText": "Schedule A Call"
+                },
+                {
+                    "HCEHHeader": "Supplier Audit Deep Dive",
+                    "HCEHImageUrl": "https://franchisesuppliernetwork.com/wp-content/uploads/2022/09/hcwh-icon02.svg",
+                    "HCEHParagraph": "Franchise brands we consult with receive a tremendous amount of value in a Franchise Supplier Network facilitated review of their current supplier stack (and future needs). Whether you want to validate you are getting the results you should be, receiving a good price and contractual terms, making the right decision to hire a supplier, or review gaps and potential opportunities \u2013 our expert team can facilitate an audit and present back our thoughts and feedback. The process typically requires 1 to 3 hours of time over a 2 to 4 week period.",
+                    "HCEHUrl": "",
+                    "HCEHText": "Schedule A Call"
+                }
+            ]
+        }
+    }
+}

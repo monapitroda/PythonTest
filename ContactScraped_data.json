@@ -1,0 +1,14 @@
+{
+    "About": {
+        "HeaderSection": {
+            "HeaderText": "Contact",
+            "HeaderImage": "https://franchisesuppliernetwork.com/wp-content/themes/franchise-supplier-network/img/banner-inner-01.jpg"
+        },
+        "TeamList": [
+            {
+                "Address": "",
+                "email": "info@franchisesuppliernetwork.com"
+            }
+        ]
+    }
+}
