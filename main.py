@@ -115,29 +115,31 @@ def scraped_FNSSupplied_and_homescrappedLinks():
 
     
     Main_data = []
+    
 
     for url in unique_urls:
+        combined_data = {}
         print('NewURL:-',url)
         driver.get(url)
         sleep(7)
 
         page_source = driver.page_source
-        soup = BeautifulSoup(page_source, 'html.parser')
-
-        # 
-        combined_data = []
+        soup = BeautifulSoup(page_source, 'html.parser') 
+        
         headers = image_div = soup.find('div', class_='col-xl-2 col-md-2 col-5')
         Header_image_url = image_div.find('img')['src']
         text_div = soup.find('div', class_='col-xl-3 col-md-5 col-12')
         Header_text = text_div.find('h2').text.strip()
 
-        data_dict = {
-            "Header_image_url": Header_image_url,
-            "Header_text": Header_text,
-        }      
-        combined_data.append(data_dict)   
+        combined_data["Header"] ={
+            "MainURL": url,
+            'HeaderImage': Header_image_url,
+            'HeaderText': Header_text
+        }
+
 
         finalLists = []
+        data_dict = {}
         fs_col_inns = soup.find_all('div', class_='col-lg-4 fs-col')
 
         for fs_col_inn in fs_col_inns:
@@ -162,22 +164,26 @@ def scraped_FNSSupplied_and_homescrappedLinks():
                 link =  link['href']
                 alllink.append(link)
                 
-            # finalLists.append({
-            #     "Header": about_heading,
-            #     "Questions": smallquestions,
-            #     "Paragraph": paragraph,
-            #     "Link": alllink
-            # })
-            data_dict = {
-                "About_Heading": about_heading,
+            finalLists.append({
+                "Header": about_heading,
                 "Questions": smallquestions,
                 "Paragraph": paragraph,
                 "Link": alllink
-            }
-        combined_data.append(data_dict)
-    
+            })
+            # data_dict = {
+            #     "About_Heading": about_heading,
+            #     "Questions": smallquestions,
+            #     "Paragraph": paragraph,
+            #     "Link": alllink
+            # }
+
+        combined_data["SectionOne"] = {
+            "FisrtSectionData": finalLists
+        }
+
         # Extract Industries
         finalListsnext = []
+        data_dict_next = {}
         innercontent = soup.find('div', class_='col-md-12')
         All_header = innercontent.find_all('div', class_='row fs-content-row')
 
@@ -219,31 +225,118 @@ def scraped_FNSSupplied_and_homescrappedLinks():
                 AllDIV.append(text_content)
             # print('AllDIV:-',AllDIV)
 
-            # finalListsnext.append({
-            # "Header": AllP,
-            # "IndustryName": AllLI,
-            # "Link": alllink,
-            # "YoutubeLink": Iframe,
-            # "Description": AllDIV
-            # })
+            finalListsnext.append({
+            "Header": AllP,
+            "IndustryName": AllLI,
+            "Link": alllink,
+            "YoutubeLink": Iframe,
+            "Description": AllDIV
+            })
 
-            data_dict_next = {            
-                "Header": AllP,
-                "IndustryName": AllLI,
-                "Link": alllink,
-                "YoutubeLink": Iframe,
-                "Description": AllDIV
-            }
-        combined_data.append(data_dict_next)
-        print(combined_data)
-            # Main_data = {url: combined_data}
-            # print('Main_data:-',Main_data)
-    # Convert the list of dictionaries to JSON format
+            # data_dict_next = {            
+            #     "Header": AllP,
+            #     "IndustryName": AllLI,
+            #     "Link": alllink,
+            #     "YoutubeLink": Iframe,
+            #     "Description": AllDIV
+            # }
+            
+        combined_data["SectionTwo"] ={
+            "SecondSectionData": finalListsnext
+        }    
+        Main_data.append(combined_data)
 
     json_data = json.dumps(Main_data, indent=4)
 
     # Write the JSON data to a file
-    with open('combined_data_URL.json', 'w') as f:
+    with open('FNSCategory_Data.json', 'w') as f:
         f.write(json_data)
 
-scraped_FNSSupplied_and_homescrappedLinks()
+def scraped_Resource_URLs():
+    with open('ResourcesScraped_data.json', 'r') as file:
+        data = json.load(file)
+
+    urls = [item['CategoryUrl'] for item in data['Resources']['Category']]
+    unique_urls = list(set(urls))
+    # print(unique_urls)
+
+    Main_data = []
+    for url in unique_urls:
+        combined_data = {}
+        driver.get(url)
+        sleep(7)
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, 'html.parser') 
+
+        url_content = soup.find('section', class_='contentside')   
+        time_text = ""
+        # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ section one
+        Header_text = url_content.find('h1').text.strip()
+        username = url_content.find('div', class_='post_info').find(class_='author')
+        username = username.text.strip()
+        text_time = url_content.find('div', class_='post_info').find('time')
+        if text_time:
+            time_text = text_time.get_text(strip=True)
+
+        combined_data["Header"] ={
+            "MainURL": url,
+            'HeaderText': Header_text,            
+            'UserName': username,
+            "Time": time_text
+        }
+
+        finalLists = []
+        data_dict = {}
+        # @@@@@@@@@@@@@@@@@@@@ section 2 image and paragraph
+        maintag = url_content.find('div',class_='row')
+        image_url = maintag.find('img')['src']
+        # print(image_url)
+        seperate_tag = maintag.find_all('div',class_='col-sm-12')
+        for all_P in seperate_tag:
+            
+            allHeader = []    
+            all_header = all_P.find_all('h2')
+            for header in all_header:
+                header = header.text.strip()
+                allHeader.append(header)
+            # print(allHeader)
+            
+            AllP = []       
+            ptagdata = all_P.find_all('p')
+            for P_tag in ptagdata:
+                Paragraph = P_tag.text.strip()
+                AllP.append(Paragraph)
+            # print(AllP)
+            
+            alllink = []    
+            all_links = all_P.find_all('a')
+            for link in all_links:
+                link =  link['href']
+                if not "javascript:;" in link:
+                    alllink.append(link) 
+            # print(alllink)
+
+            finalLists.append({
+            "Header": allHeader,
+            "Paragraph": AllP,
+            "Link": alllink
+            })
+        combined_data["Information"] ={
+            "ImageURL": image_url,
+            "InformationSectionData": finalLists
+        } 
+
+
+        Main_data.append(combined_data)
+    
+    print('Main_data_:-',Main_data)
+    json_data = json.dumps(Main_data, indent=4)
+
+    # Write the JSON data to a file
+    with open('ResourceCategory_Data.json', 'w') as f:
+        f.write(json_data)
+
+
+
+# scraped_FNSSupplied_and_homescrappedLinks()
+scraped_Resource_URLs()
